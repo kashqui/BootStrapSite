@@ -1,0 +1,63 @@
+.alp_blue {
+	color: #006;
+}
+.alp_liteblue {
+	color: #CCF;
+}
+.alp_line {
+	text-decoration: underline;
+}
+.alp_yellow {
+	color: #FF0;
+}
+.alp_colhead {
+	font-weight: bold;
+	color: #33A;
+}
+.alp_thinfont {
+	font-family: "Merriweather", serif;
+}
+.favicon {
+	 width: 19px;
+	 padding-bottom: 3px;
+}
+.alp_a {
+	color: #006;
+}
+.alp_telcon {
+	 width: 14px;
+	 padding-bottom: 3px;
+}
+
+.alp_left {
+	text-align: left;
+}
+
+.companyinfo {
+	width: 300px;
+}
+
+.event {
+	margin-top: 100px;
+}
+
+.caption {
+	text-align: center;
+    display: inline-block;
+	width:75%;
+}
+
+/* disable telephone link */
+a[href^="tel:"] {
+	cursor: default;
+}
+
+.center
+{
+    text-align: center;
+    display: inline-block;
+}
+
+a:visited {
+	color: #006;
+}
